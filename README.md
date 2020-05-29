@@ -23,4 +23,4 @@ An n-gram based model trained using deep learning techniques that can generate t
 ## Model
 
 * Built a custom character level N-Gram natural language model using deep learning technique
-* Took random n length strings from the corpus to predict the n+1$^{th}$ character using the LSTM model
+* Took random n length strings from the corpus to predict the n+1 character using the LSTM model
